@@ -9,8 +9,8 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestClassifier
 
 st.set_page_config(page_title="365 Automobiles - Capstone", layout="wide")
-st.title("🚗 365 Automobiles Inc. - Supervised ML Portfolio App")
-st.markdown("**Batch-06** | 3 Models + Service Analysis | Individual work - explainable line-by-line")
+st.title("🚗 Kamran's Supervised ML Portfolio App -365 Automobiles Inc. UAE")
+# st.markdown("**Batch-06** | 3 Models + Service Analysis | Individual work - explainable line-by-line")
 
 # Load CSVs - try multiple locations
 def load_csv(name):
